@@ -1,5 +1,5 @@
 # dockergui
-FROM phusion/baseimage:0.9.16
+FROM phusion/baseimage:0.9.22
 MAINTAINER Carlos Hernandez <carlos@techbyte.ca>
 
 #########################################
